@@ -1,4 +1,4 @@
-﻿# ExpenseTracker
+﻿# FinanceTracker
 
 Start command: npm run dev
 
